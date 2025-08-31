@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋  
 
-<!--
-**AyushShukla07/AyushShukla07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🎓 B.Tech CSE @ KIET Group of Institutions (2023 – 2027)  
+- 💻 Web Dev | DevOps | Smart Contracts | Cybersecurity  
+- 🌱 Currently learning Kubernetes, AWS, and Docker  
 
-Here are some ideas to get you started:
+### 🌍 Open Source Contributions  
+- Reported an issue in [LeetCode Feedback Repository](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/XXXX) regarding the **"Top K Frequent Elements"** problem.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+- GitHub: [AyushShukla07](https://github.com/AyushShukla07)  
+- LinkedIn: [Ayush Shukla](https://www.linkedin.com/in/ayush-shukla-a3b663247/)  
+
